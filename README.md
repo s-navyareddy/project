@@ -21,6 +21,5 @@ Add pagination, just above the table of agencies, displaying 20 agencies per pag
 
 * Caregivers Directory ("/caregivers-directory")
 Replace the placeholder data with queried database data, displaying all caregivers in alphabetical order
-
-* Technologies used
-I have Used technologies like PHP, Laravel Framework and JQuery Datatables to display all the agencies with pagianation, search and displaying 20 agencies per page.
+ 
+* I have JQuery Datatables to display all the agencies with pagianation, search and displaying 20 agencies per page.

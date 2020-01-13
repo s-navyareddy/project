@@ -1,20 +1,26 @@
 # project
  PHP Coding challenge application
  
-This repository contains code for first two questions 
-Tasks:
-Agency Listing ("/agencies")
+ This Web application uses the Laravel web application framework. Documentation for the framework can be found on the Laravel website.
+
+Installation
+Clone this repo to your local machine using https://github.com/s-navyareddy/project
+
+Setup
+After cloning the repository
+Open Command Line
+Open Project folder
+Run php artisan serve command
+Then open localhost URL in the browser to access the application
+
+Features
+1. Agency Listing ("/agencies")
 Replace the blue question mark with the number of caregivers for that Agency
 Add pagination, just above the table of agencies, displaying 20 agencies per page
 
-Caregivers Directory ("/caregivers-directory")
+2: Caregivers Directory ("/caregivers-directory")
 Replace the placeholder data with queried database data, displaying all caregivers in alphabetical order
 
-Summary and Tips:
-clone this repository and open in your environment.
-Open command line 
-open the project folder
-write the php artisan serve command.
-Then open localhost url in the browser to access the application.
-In This project i have used jquery datatables to display all the agencies with pagination and search with 20 entities on each page. 
-
+Going into more detail on code and technologies used
+PHP, Laravel Franework, JQuery.
+I have Used JQuery Datatables to display all the agencies with pagianation, search and displaying 20 agencies per page.
